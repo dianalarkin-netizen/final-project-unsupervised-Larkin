@@ -75,5 +75,4 @@ This project explores how **unsupervised learning** can uncover hidden patterns 
 ---
 
 ## Key Insight
-Fraud risk is **not random** — it clusters around incident complexity and policy structures.  
-Unsupervised learning adds valuable context, even if predictive gains are modest, and sets the foundation for stronger fraud detection models in the future.
+Fraud risk is **not random** — it clusters around incident complexity and policy structures.  Unsupervised learning adds valuable context, even if predictive gains are modest, and sets the foundation for stronger fraud detection models in the future.
