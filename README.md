@@ -2,7 +2,7 @@
 
 **Google Colab Notebook:** https://colab.research.google.com/drive/13Fysqi84bF4ypixaplgd3QGawKjA0Bj0?usp=sharing
 
-**Video Presentation:** 
+**Video Presentation:** https://1drv.ms/v/c/faf6cbb1d6e30397/IQBiuGP_am6yRqTVExaOjRsoAS-QxoMfx4e7u7-rQnD8jgA?e=fXqgZO
 
 ## Overview
 This project explores how **unsupervised learning** can uncover hidden patterns in insurance claims data and improve fraud detection. By applying clustering and PCA, we discovered meaningful claim segments and integrated them into predictive models to test whether these features enhanced accuracy.
